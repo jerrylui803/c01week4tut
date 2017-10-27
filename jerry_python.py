@@ -5,6 +5,6 @@ print("ABCDEFGHIGKLMN")
 print("ABCDEFGHIGKLMN")
 print("111")
 print(i+1)
-print("qq")
-
+print("qq111111111111")
+print("FRIFRIFR")
 print(i+2)

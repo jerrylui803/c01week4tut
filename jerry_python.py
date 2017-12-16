@@ -1,13 +1,10 @@
 
-print("ABCDEFGHIGKLMN")
+print("ABCDEFGasfsafac9u5234723u48y32192u32HIGKLMN")
 print("ABCDEFGH
-print("ABCDEFGHIGKLMN")
-print("ABCDEFGHIGKLMdasN")
-print("dsa111")
+print("sadasf")
+=print("dsa111")fsaf
 after the change
 print(i+1)
 print("qq111111111111")
-print("FRI\FRIFR")
-print(i+2)
-print ;;;;
-dasdasdsa
+print("FRI\FRIFR")print ;;;;
+dasldsadasdasdsa

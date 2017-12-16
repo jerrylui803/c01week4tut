@@ -1,9 +1,6 @@
 
 print("ABCDEFGHIGKLMN")
-print("ABCDEFGHIGKLMN")
-print("ABCDEFGHIGKLMN")
-print("ABCDEFGHIGKLMN")
-print("dsa111")
+print("ABCDEFGH
 print(i+1)
 print("qq111111111111")
 print("FRI\FRIFR")

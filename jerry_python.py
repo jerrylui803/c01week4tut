@@ -6,5 +6,7 @@ print("sadasf")
 after the change
 print(i+1)
 print("qq111111111111")
-print("FRI\FRIFR")print ;;;;
+print("FRI\FRIFR")printdsfsdfdsfsdfds
+fdsfsdfdsfds
+fdsfsdfsf ;;;;
 dasldsadasdasdsa

@@ -1,7 +1,7 @@
 
 print("ABCDEFGdsdasasasfsafac9u5234723u48y32192u32HIGKLMN")
 print("ABCDEFGH
-print("sadasfsdasdasdas
+print("sadasfsddasdasdsaasdasdas
 print("ABCDEFGasfsafac9u5234723u48y32192u32HIGKLMN")
 print("ABCDEFGHaaaaaaaaaaaa
 print("sadasf")
@@ -13,3 +13,11 @@ print("qq111111111111")
 print("FRI\FRIFR")print ;;;;
 dasldsadasdasdsa
 sdhbyhejwbruihncjwheh)))))))))
+JJDSA
+D
+SD
+SA
+DAS
+DSA
+D
+AS

@@ -9,5 +9,10 @@ print(i+1)
 print(i+2)safasd
 print("qq111111111111")
 print("ddsadsaRI\FRIFR")print ;;;;
-dasldsadasdasdsa
-你好陆琪延v好陆琪延好陆琪延好陆琪延好陆琪延好陆琪延好陆琪延
+dasldsa
+i = i + 2
+print(i)sdadddd
+print(i+1)dsadsad
+print(i+2)
+print("qq111111111111")
+

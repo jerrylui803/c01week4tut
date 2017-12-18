@@ -13,7 +13,7 @@ print("ddsadsaRI\FRIFR")print ;;;;
 dasldsa
 i = i + 2
 print(i)sdadddd
-print(i+1)dsadsad
-print(i+2)
+print(i+1)dssdas:adsad
+printsdsadas(i+2)
 print("qq111111111111")
-
+dsdad
